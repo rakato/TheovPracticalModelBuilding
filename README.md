@@ -19,6 +19,8 @@ Links for Talk at DSS Miami 11/7/18
 * Richard Feynman: The Pleasure of Finding Things Out Documentary https://www.dailymotion.com/video/x24gwgc
 * List of Cognitive Biases  https://en.wikipedia.org/wiki/List_of_cognitive_biases
 
+* Is the Black Scholes Model Just Plain Wrong? https://bit.ly/2F39IzB
+
 * Dynamic Hedging by Nasim Taleb https://amzn.to/2OpYTXt
 * The Misbehavior of Markets by Benoit Mandelbrot https://amzn.to/2qs6Z8J
 
