@@ -1,2 +1,2 @@
-# Theo_v_Practical_ModelBuilding
+# Theoretical Vs Practical Model Building
 Links for Talk at DSS Miami 11/7/18
