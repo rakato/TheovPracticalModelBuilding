@@ -1,9 +1,14 @@
 # Theoretical Vs Practical Model Building:
 ## Crossing the Practical Application Divide
 Links for Talk at DSS Miami 11/7/18
+  
+  Data Science Salon Miami: https://datascience.salon/miami11-18/
 
 :octocat:
 
+## Don't Worry its not that Kind of Talk
+ * Top 100 Chuck Norris Facts https://chucknorrisfacts.net/top-100
+ 
 ## Act 1: Why Can't I Reproduce that Research Paper?
 ### I Don't Believe You Dr. Smart Person
 
@@ -20,6 +25,7 @@ Links for Talk at DSS Miami 11/7/18
 * List of Cognitive Biases  https://en.wikipedia.org/wiki/List_of_cognitive_biases
 
 * Is the Black Scholes Model Just Plain Wrong? https://bit.ly/2F39IzB
+* Modern Portfolio Theory and its Problems https://bit.ly/2D0wC7W
 
 * Dynamic Hedging by Nasim Taleb https://amzn.to/2OpYTXt
 * The Misbehavior of Markets by Benoit Mandelbrot https://amzn.to/2qs6Z8J
