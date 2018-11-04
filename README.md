@@ -20,13 +20,15 @@ Links for Talk at DSS Miami 11/7/18
 
 
 ## Act 2: I swear my model worked in the back test
-
+### Do Not Fool Yourself
 * Richard Feynman: The Pleasure of Finding Things Out Documentary https://www.dailymotion.com/video/x24gwgc
 * List of Cognitive Biases  https://en.wikipedia.org/wiki/List_of_cognitive_biases
 
+### You are not Alone
 * Is the Black Scholes Model Just Plain Wrong? https://bit.ly/2F39IzB
 * Modern Portfolio Theory and its Problems https://bit.ly/2D0wC7W
 
+### What are you doing again? and the Real World has Sharp Edges
 * Dynamic Hedging by Nasim Taleb https://amzn.to/2OpYTXt
 * The Misbehavior of Markets by Benoit Mandelbrot https://amzn.to/2qs6Z8J
 
