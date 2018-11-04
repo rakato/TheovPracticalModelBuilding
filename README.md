@@ -28,9 +28,11 @@ Links for Talk at DSS Miami 11/7/18
 * Is the Black Scholes Model Just Plain Wrong? https://bit.ly/2F39IzB
 * Modern Portfolio Theory and its Problems https://bit.ly/2D0wC7W
 
-### What are you doing again? and the Real World has Sharp Edges
+### What are you doing again? 
+* Don't touch that AI – model fiddling can skew algorithm https://www.theregister.co.uk/2018/02/13/deep_neural_net_trojan_code/
 * Technical Debt in ML http://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf
 
+### The Real World has Sharp Edges
 * Dynamic Hedging by Nasim Taleb https://amzn.to/2OpYTXt
 * The Misbehavior of Markets by Benoit Mandelbrot https://amzn.to/2qs6Z8J
 
