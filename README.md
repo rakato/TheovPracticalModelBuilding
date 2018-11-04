@@ -29,6 +29,8 @@ Links for Talk at DSS Miami 11/7/18
 * Modern Portfolio Theory and its Problems https://bit.ly/2D0wC7W
 
 ### What are you doing again? and the Real World has Sharp Edges
+* Technical Debt in ML http://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf
+
 * Dynamic Hedging by Nasim Taleb https://amzn.to/2OpYTXt
 * The Misbehavior of Markets by Benoit Mandelbrot https://amzn.to/2qs6Z8J
 
