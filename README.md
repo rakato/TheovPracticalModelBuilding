@@ -18,6 +18,8 @@ Links for Talk at DSS Miami 11/7/18
 * Replication Crisis: https://en.wikipedia.org/wiki/Replication_crisis
 * Artificial intelligence faces reproducibility crisis http://science.sciencemag.org/content/359/6377/725
 
+* A.I. vs M.D.: https://www.newyorker.com/magazine/2017/04/03/ai-versus-md 
+Geoff Hinton: “They should stop training radiologists now.” 
 
 ## Act 2: I swear my model worked in the back test
 ### Do Not Fool Yourself
