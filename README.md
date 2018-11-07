@@ -37,6 +37,7 @@ Geoff Hinton: “They should stop training radiologists now.”
 ### The Real World has Sharp Edges
 * Dynamic Hedging by Nasim Taleb https://amzn.to/2OpYTXt
 * The Misbehavior of Markets by Benoit Mandelbrot https://amzn.to/2qs6Z8J
+* What Happened To The Quants In August 2007?: Evidence from Factors and Transactions Data https://www.nber.org/papers/w14465
 
 ### Scaling
  * The Unreasonable Effectiveness of Data https://bit.ly/2xcMKQG
