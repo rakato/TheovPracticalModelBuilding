@@ -54,6 +54,10 @@ Geoff Hinton: “They should stop training radiologists now.”
 * Momentum vs. Mean Reversion https://www.quantshare.com/blog-497-mean-reversion-vs-momentum-strategies
 * XGBoost https://github.com/dmlc/xgboost
 
+### Modularize Your Pipelines for Optionality and Redundancy
+
+ * 2-is-1 and 1-is-None Redundancy https://www.inc.com/matt-given/this-1-lesson-from-how-the-navy-seals-plan-their-m.html
+ 
 ### Penalize Your Models
 
 * Regularization in Machine Learning https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a
