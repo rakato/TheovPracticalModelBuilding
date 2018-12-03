@@ -2,8 +2,6 @@
 ## Crossing the Practical Application Divide
 Links for Talk
   
-  Data Science Salon Miami: https://datascience.salon/miami11-18/
-
 :octocat:
 
 ## Don't Worry its not that Kind of Talk
