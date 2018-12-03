@@ -1,6 +1,6 @@
 # Theoretical Vs Practical Model Building:
 ## Crossing the Practical Application Divide
-Links for Talk at DSS Miami 11/7/18
+Links for Talk
   
   Data Science Salon Miami: https://datascience.salon/miami11-18/
 
